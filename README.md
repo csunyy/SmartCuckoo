@@ -1,1 +1,1 @@
-# SmartCuckoo
+# SmartCuckoo> An Efficient Hashing Scheme for Scalable Metadata Query Services
