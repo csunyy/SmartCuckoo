@@ -1,1 +1,5 @@
-# SmartCuckoo> An Efficient Hashing Scheme for Scalable Metadata Query Services
+# SmartCuckoo
+
+> A Fast and Cost-Efficient Hashing Index Scheme for cloud Storage Systems
+
+
